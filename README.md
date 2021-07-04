@@ -9,7 +9,7 @@ const nicolasGuerrero = {
     status = "Seeking to evolve in programming"
 }
 ````
-
+##### 🏠 Thanks for visiting my profile!
 
 <!--
 **nicolasgandrade/nicolasgandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
