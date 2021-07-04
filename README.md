@@ -9,5 +9,5 @@ const nicolasGuerrero = {
     status = "Seeking to evolve in programming"
 }
 ````
-#### 🏠 Thanks for visiting my profile! ✨
+##### 🏠 Thanks for visiting my profile! ✨
 
