@@ -4,7 +4,7 @@
 
 ````
 const nicolasGuerrero = {
-    mainlyCode = <p style="color:#0cf2a9 ">[javascript, HTML, CSS]</p>,
+    mainlyCode = ```<p style="color:#0cf2a9 ">```[javascript, HTML, CSS]```</p>```,
     technologies = [NodeJs, ReactNative, MongoDB, Bootstrap],
     status = "Seeking to evolve in programming"
 }
