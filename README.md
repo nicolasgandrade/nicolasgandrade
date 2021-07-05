@@ -4,9 +4,9 @@
 
 ````
 const nicolasGuerrero = {
-    mainlyCode = [javascript, Python, HTML, CSS],
+    mainlyCode = [Javascript, Python, HTML, CSS],
     technologies = [NodeJs, ReactNative, MongoDB, Bootstrap],
-    status = "Seeking to evolve in programming"
+    status = "Seeking evolution and knowledge."
 }
 ````
 ##### 🏠 Thanks for visiting my profile! ✨
