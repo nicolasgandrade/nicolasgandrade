@@ -4,7 +4,7 @@
 
 ````
 const nicolasGuerrero = {
-    mainlyCode = [Javascript, Python, HTML, CSS],
+    mainlyCode = [Javascript, PHP, HTML, CSS],
     technologies = [NodeJs, ReactNative, MongoDB, MySQL, Bootstrap],
     status = "Seeking evolution and knowledge."
 }
