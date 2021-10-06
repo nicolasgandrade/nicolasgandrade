@@ -9,5 +9,6 @@ const nicolasGuerrero = {
     status = "Seeking evolution and knowledge."
 }
 ````
+### Interested and starting to learn Java!
 ##### 🏠 Thanks for visiting my profile! ✨
 
