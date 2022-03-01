@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/nicolasgandrade">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicolasgandrade&hide=contribs&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgandrade&exclude_repo=node-blogapp,questions-and-answers-app,curso-php&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgandrade&exclude_repo=questions-and-answers-app,curso-php&layout=compact&langs_count=15&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -18,7 +18,7 @@
   
 </div>
 
-### :coffee: Java developer!
+### :coffee: Web developer!
   
 <div align="center">
   
